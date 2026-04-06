@@ -1,4 +1,4 @@
 # First-repo
 This is my first  Git Repository.
 
-Author - Yachika patel.
+Author - Yachika patel patel.
